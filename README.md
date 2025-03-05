@@ -1,5 +1,7 @@
 # Building Jarvis
 
+![Zuck](https://www.czbiohub.org/wp-content/uploads/2023/09/Mark-Zuckerberg.jpg)
+
 My personal challenge for 2016 was to build a simple AI to run my home -- like Jarvis in Iron Man.
 
 My goal was to learn about the state of artificial intelligence -- where we're further along than people realize and where we're still a long ways off. These challenges always lead me to learn more than I expected, and this one also gave me a better sense of all the internal technology Facebook engineers get to use, as well as a thorough overview of home automation.
