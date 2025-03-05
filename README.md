@@ -1,6 +1,6 @@
 # Building Jarvis
 
-![Zuck](https://e7.pngegg.com/pngimages/578/37/png-clipart-mark-zuckerberg-mark-zuckerberg.png)
+![Zuck](https://www.czbiohub.org/wp-content/uploads/2023/09/Mark-Zuckerberg.jpg)
 
 My personal challenge for 2016 was to build a simple AI to run my home -- like Jarvis in Iron Man.
 
