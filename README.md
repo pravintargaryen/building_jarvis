@@ -22,7 +22,7 @@ Further, most appliances aren't even connected to the internet yet. It's possibl
 
 For assistants like Jarvis to be able to control everything in homes for more people, we need more devices to be connected and the industry needs to develop common APIs and standards for the devices to talk to each other.
 
-![Zuck Bash](https://scontent.ftcr1-1.fna.fbcdn.net/v/t39.30808-6/468959740_10116200686566051_5941296218691567996_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=350b3d&_nc_ohc=DNg5V_bc5hMQ7kNvgHzIhMO&_nc_oc=Adj2bQBzVCjcH6k3lOGNKeAGuVNtfnDibehxBO15n9hLiEul5nhrDtacWPmnE5Djgx0&_nc_zt=23&_nc_ht=scontent.ftcr1-1.fna&_nc_gid=AQgzcOCFfijCw2VxW-3Mo4D&oh=00_AYBcB-Z6bwPdXTP4TqJeNYKZrNCB-cLKPquKqHLC71Kr2w&oe=67CD8EDD)
+![Zuck Bash](images/468959740_10116200686566051_5941296218691567996_n.jpg)
 
 <em>An example natural language request from command line.</em>
 
@@ -38,7 +38,7 @@ Music is a more interesting and complex domain for natural language because ther
 
 The more context an AI has, the better it can handle open-ended requests. At this point, I mostly just ask Jarvis to "play me some music" and by looking at my past listening patterns, it mostly nails something I'd want to hear. If it gets the mood wrong, I can just tell it, for example, "that's not light, play something light", and it can both learn the classification for that song and adjust immediately. It also knows whether I'm talking to it or Priscilla is, so it can make recommendations based on what we each listen to. In general, I've found we use these more open-ended requests more frequently than more specific asks. No commercial products I know of do this today, and this seems like a big opportunity.
 
-![Opening Gates](https://scontent.ftcr1-1.fna.fbcdn.net/v/t39.30808-6/468856202_10116200698552031_2063929875357902427_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=350b3d&_nc_ohc=F8ipKyIQ3eMQ7kNvgFap08p&_nc_oc=AdjSen6XMxcjF752_pHTxxjsfd5LPxWaOB9ykOe7MpxAjJ0iOiLJ5uaA120AGTCJMLo&_nc_zt=23&_nc_ht=scontent.ftcr1-1.fna&_nc_gid=APYe4leXOy9suQD20qHR1WS&oh=00_AYBE-LCYdl31jNVgFMPKwo_3IeCz4jXT6aczcmXe5e1eEg&oe=67CD848A)
+![Opening Gates](images/468856202_10116200698552031_2063929875357902427_n.jpg?)
 
 <em>Jarvis uses face recognition to let my friends in automatically and let me know.</em>
 
@@ -52,7 +52,7 @@ To do this, I installed a few cameras at my door that can capture images from al
 
 This type of visual AI system is useful for a number of things, including knowing when Max is awake so it can start playing music or a Mandarin lesson, or solving the context problem of knowing which room in the house we're in so the AI can correctly respond to context-free requests like "turn the lights on" without providing a location. Like most aspects of this AI, vision is most useful when it informs a broader model of the world, connected with other abilities like knowing who your friends are and how to open the door when they're here. The more context the system has, the smarter is gets overall.
 
-![Jarvis AI](https://scontent.ftcr1-1.fna.fbcdn.net/v/t39.30808-6/468754371_10116200698537061_5949731277027127641_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=350b3d&_nc_ohc=zJ0d0KNpIBsQ7kNvgH25K8S&_nc_oc=Adi8bwFkm7NeCicC6pWKeqnQ9Y10zqYsmhm6Buxqtd9w2CJX4Gglhj25MZ8CMq4wjQU&_nc_zt=23&_nc_ht=scontent.ftcr1-1.fna&_nc_gid=APYe4leXOy9suQD20qHR1WS&oh=00_AYCyHuVJ09YqyPRKe7u1z6UaKHbQukVakOQOBkS3ugBMjw&oe=67CD9ABC)
+![Jarvis AI](images/468754371_10116200698537061_5949731277027127641_n.jpg)
 
 <em>I can text Jarvis from anywhere using a Messenger bot.</em>
 
@@ -68,7 +68,7 @@ One thing that surprised me about my communication with Jarvis is that when I ha
 
 This preference for text communication over voice communication fits a pattern we're seeing with Messenger and WhatsApp overall, where the volume of text messaging around the world is growing much faster than the volume of voice communication. This suggests that future AI products cannot be solely focused on voice and will need a private messaging interface as well. Once you're enabling private messaging, it's much better to use a platform like Messenger than to build a new app from scratch. I have always been optimistic about AI bots, but my experience with Jarvis has made me even more optimistic that we'll all communicate with bots like Jarvis in the future.
 
-![Shoot me a gray T-Shirt](https://scontent.ftcr1-1.fna.fbcdn.net/v/t39.30808-6/468812643_10116200636117151_7207361582097304955_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=350b3d&_nc_ohc=ovkCsNmOK0YQ7kNvgFIgUpS&_nc_oc=AdheLWiIfKyY7-eAU4nnTbKSHyZHwe6MNFSpXbI66n1lj9Z9wfPq5gB2jtheXDuvr2U&_nc_zt=23&_nc_ht=scontent.ftcr1-1.fna&_nc_gid=AdfftUr4yihM0c7h3lh9Gdq&oh=00_AYBa9WU5QzfPksMRnmUILEw9mN0OysKZZ_Rv-AnQiA6u3g&oe=67CD8DEA)
+![Shoot me a gray T-Shirt](images/468812643_10116200636117151_7207361582097304955_n.jpg)
 
 <em>Jarvis uses speech recognition in my iOS app to listen to my request for a fresh t-shirt.</em>
 
