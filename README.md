@@ -8,7 +8,7 @@ My goal was to learn about the state of artificial intelligence -- where we're f
 
 So far this year, I've built a simple AI that I can talk to on my phone and computer, that can control my home, including lights, temperature, appliances, music and security, that learns my tastes and patterns, that can learn new words and concepts, and that can even entertain Max. It uses several artificial intelligence techniques, including natural language processing, speech recognition, face recognition, and reinforcement learning, written in Python, PHP and Objective C. In this note, I'll explain what I built and what I learned along the way.
 
-![Jarvis Server](https://scontent.ftcr1-1.fna.fbcdn.net/v/t39.30808-6/468861630_10116200631621161_4564683138312537207_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=350b3d&_nc_ohc=zZpYwnAeQ-YQ7kNvgGqHg3F&_nc_oc=AdjOCV6lAKSp_0kb76efFNmX0v8RYdLAnH--0u3DW21pjiRCZsNCWyBvGZL939dbM5A&_nc_zt=23&_nc_ht=scontent.ftcr1-1.fna&_nc_gid=AohN1O34AfawM17sHxurTk-&oh=00_AYA5nur081zcxuWOeBicbL6jSonISqaNC78bO_Jkp_fBGA&oe=67CD7B01)
+![Jarvis Server](images/468861630_10116200631621161_4564683138312537207_n.jpg)
 
 <em>Diagram of the systems connected to build Jarvis.</em>
 
